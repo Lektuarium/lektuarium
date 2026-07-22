@@ -20,7 +20,7 @@
 
 ## Moja Misja
 
-Chcę dać czytelnikom pełną kontrolę nad ich domowymi bibliotekami, ułatwić odkrywanie nowych lektur oraz stworzyć przestrzeń do nawiązywania wartościowych relacji w oparciu o wspólne pasje czytelnicze. Belferstwo i komercyjny chaos zastępuję nowoczesnym designem, otwartością danych i dbałością o prywatność oraz doświadczenie użytkownika.
+Chcę dać czytelnikom pełną kontrolę nad ich domowymi bibliotekami, ułatwić odkrywanie nowych lektur oraz stworzyć przestrzeń do nawiązywania wartościowych relacji w oparciu o wspólne pasje czytelnicze. Komercyjne reklamy i partactwo zastępuję otwartością danych i dbałością o prywatność oraz doświadczenie użytkownika.
 
 ---
 
